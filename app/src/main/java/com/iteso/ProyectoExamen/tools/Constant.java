@@ -1,4 +1,4 @@
-package com.iteso.tarea05.tools;
+package com.iteso.ProyectoExamen.tools;
 
 /**
  * @author Oscar Vargas

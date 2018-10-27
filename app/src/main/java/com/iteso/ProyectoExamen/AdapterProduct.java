@@ -1,4 +1,4 @@
-package com.iteso.tarea05;
+package com.iteso.ProyectoExamen;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,8 +13,8 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.iteso.tarea05.beans.ItemProduct;
-import com.iteso.tarea05.tools.Constant;
+import com.iteso.ProyectoExamen.beans.ItemProduct;
+import com.iteso.ProyectoExamen.tools.Constant;
 
 import java.util.ArrayList;
 

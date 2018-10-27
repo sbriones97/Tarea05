@@ -1,4 +1,4 @@
-package com.iteso.tarea05;
+package com.iteso.ProyectoExamen;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -10,8 +10,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 
-import com.iteso.tarea05.beans.ItemProduct;
-import com.iteso.tarea05.tools.Constant;
+import com.iteso.ProyectoExamen.beans.ItemProduct;
+import com.iteso.ProyectoExamen.tools.Constant;
 
 public class ActivityProduct extends AppCompatActivity {
 

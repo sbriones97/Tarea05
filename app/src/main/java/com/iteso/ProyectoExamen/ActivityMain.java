@@ -1,4 +1,4 @@
-package com.iteso.tarea05;
+package com.iteso.ProyectoExamen;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.iteso.tarea05.tools.Constant;
+import com.iteso.ProyectoExamen.tools.Constant;
 
 /**
  * @author Oscar Vargas

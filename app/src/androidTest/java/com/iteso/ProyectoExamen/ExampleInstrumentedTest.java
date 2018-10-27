@@ -1,4 +1,4 @@
-package com.iteso.tarea05;
+package com.iteso.ProyectoExamen;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

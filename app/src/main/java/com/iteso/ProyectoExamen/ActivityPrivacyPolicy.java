@@ -1,4 +1,4 @@
-package com.iteso.tarea05;
+package com.iteso.ProyectoExamen;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import com.iteso.tarea05.tools.WebAppInterface;
+import com.iteso.ProyectoExamen.tools.WebAppInterface;
 
 public class ActivityPrivacyPolicy extends AppCompatActivity implements DialogInterface.OnKeyListener{
 
